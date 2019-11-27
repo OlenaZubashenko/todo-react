@@ -1,0 +1,8 @@
+.search-input {
+    width: auto;
+    flex-grow: 1;
+    padding: 3px;
+    outline: rgb(140, 143, 143);
+    border-radius: 3px;
+    border: .5px solid rgb(201, 200, 200);
+}

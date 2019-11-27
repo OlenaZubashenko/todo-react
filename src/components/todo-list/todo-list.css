@@ -1,0 +1,9 @@
+.list-group-item .list-item {
+    padding: .25rem, .75rem;
+}
+
+.list-group-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
